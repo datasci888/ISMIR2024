@@ -27,5 +27,5 @@ To use the inference notebook to generate song:
 
 - Open the notebook in Google Colab.
 - Mount your Google Drive to provide access to the fine-tuned MusicGen checkpoint.
-- Follow the instructions within the notebook to load the MusicGen model and generate Raga melodies using textual prompts.
+- Follow the instructions within the inference notebook to load the MusicGen model and generate Raga melodies using textual prompts.
 - The generated audio can be played directly in the notebook and saved to your Google Drive or local machine for further use.
