@@ -13,7 +13,7 @@ Curated a dataset of 20 singing voices in Jog Raga, converted to MIDI format for
 ## Methodology
 Involved segmenting audio into 30-second chunks for resampling and normalization, extracting features like genre and mood, and using Librosa to detect key and BPM. Metadata for each clip was stored in a JSONL file.
 
-## Fine-Tuning Process
+## MusicGen Fine-Tuning Process
 Utilized the Dora framework with specified hyperparameters for training the MusicGen model.
 
 ## Results
