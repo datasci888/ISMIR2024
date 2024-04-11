@@ -1,4 +1,5 @@
 # Harmonizing Tradition and Technology: Fine-Tuning MusicGen for Authentic Raga Melody Generation
+### ISMIR2024 Official paper submission
 
 ## Objective
 Investigate the integration of traditional Indian Raga music with modern AI techniques by fine-tuning the MusicGen model for Raga melody generation.
