@@ -1,6 +1,6 @@
 # RagaGEN - A Raga music generating model based on MusicGen.
 
-# Harmonizing Tradition and Technology: Fine-Tuning MusicGen for Authentic Raga Melody Generation
+## Harmonizing Tradition and Technology: Fine-Tuning MusicGen for Authentic Raga Melody Generation
 ### ISMIR2024 Official paper submission
 
 ## Objective
