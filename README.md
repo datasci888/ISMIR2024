@@ -1,25 +1,10 @@
-# RagaGEN
+# RagaGEN - A Raga music generating model based on MusicGen.
 
 # Harmonizing Tradition and Technology: Fine-Tuning MusicGen for Authentic Raga Melody Generation
 ### ISMIR2024 Official paper submission
 
 ## Objective
 Investigate the integration of traditional Indian Raga music with modern AI techniques by fine-tuning the MusicGen model for Raga melody generation.
-
-## Gap in Research
-Identified a significant gap in the application of AI for Raga melody generation, particularly with autoregressive language models like MusicGen.
-
-## Dataset
-Curated a dataset of 20 singing voices in Jog Raga, converted to MIDI format for input into GPT-4, and subsequently transformed into WAV files for fine-tuning with MusicGen.
-
-## Methodology
-Involved segmenting audio into 30-second chunks for resampling and normalization, extracting features like genre and mood, and using Librosa to detect key and BPM. Metadata for each clip was stored in a JSONL file.
-
-## MusicGen Fine-Tuning Process
-Utilized the Dora framework with specified hyperparameters for training the MusicGen model.
-
-## Results
-Achieved a 96\% adherence to traditional patterns and structures in the generated Raga melodies.
 
 ### Composed sample track
 The AI-generated melodies were used to compose an instrumental track featuring violin, cello, santoor, and piano, available on SoundCloud.
