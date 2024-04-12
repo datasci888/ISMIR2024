@@ -23,9 +23,7 @@ Achieved a 96\% adherence to traditional patterns and structures in the generate
 
 ### Composed sample track
 The AI-generated melodies were used to compose an instrumental track featuring violin, cello, santoor, and piano, available on SoundCloud.
-```
-<iframe width="100\%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https\%3A//api.soundcloud.com/tracks/1799210497&color=\%23ff5500&auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show\_reposts=false&show\_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/data-scientist-228457136" title="Data Scientist" target="\_blank" style="color: #cccccc; text-decoration: none;">Data Scientist</a> · <a href="https://soundcloud.com/data-scientist-228457136/ragagenauthorcomposedmusic" title="RagagenAuthorComposedMusic" target="\_blank" style="color: #cccccc; text-decoration: none;">RagagenAuthorComposedMusic</a></div> 
-```
+
 ```
 https://on.soundcloud.com/fS4WPNsa38iNhjNj9 
 ```
