@@ -1,3 +1,5 @@
+# RagaGEN
+
 # Harmonizing Tradition and Technology: Fine-Tuning MusicGen for Authentic Raga Melody Generation
 ### ISMIR2024 Official paper submission
 
