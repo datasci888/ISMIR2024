@@ -21,6 +21,12 @@ Utilized the Dora framework with specified hyperparameters for training the Musi
 ## Results
 Achieved a 96% adherence to traditional patterns and structures in the generated Raga melodies.
 
+### Composed sample track
+The AI-generated melodies were used to compose an instrumental track featuring violin, cello, santoor, and piano, available on SoundCloud.
+
+```
+https://on.soundcloud.com/fS4WPNsa38iNhjNj9 
+```
 
 ## Raga Fine-tuned MusicGen Inference
 This repository contains a Jupyter Notebook designed for generating Raga melodies using a fine-tuned MusicGen model. The notebook is intended to be run on Google Colab and requires access to a Google Drive containing the fine-tuned MusicGen checkpoint.
