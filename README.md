@@ -12,6 +12,10 @@ The AI-generated melodies were used to compose an instrumental track featuring v
 ```
 https://on.soundcloud.com/fS4WPNsa38iNhjNj9 
 ```
+Singing voice rendering based on the above instrumental
+```
+https://soundcloud.com/data-scientist-228457136/vocal 
+```
 
 ## Raga Fine-tuned MusicGen Inference
 This repository contains a Jupyter Notebook designed for generating Raga melodies using a fine-tuned MusicGen model. The notebook is intended to be run on Google Colab and requires access to a Google Drive containing the fine-tuned MusicGen checkpoint.
